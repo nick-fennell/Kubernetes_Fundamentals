@@ -12,7 +12,7 @@ Free cloud platforms with Kubernetes offerings (AWS EKS, GCP Kubernetes Engine, 
 
 ## Project Goals:
 
-Deploy a simple web application: We'll deploy a basic HTTP server to visualize cluster functionality.
-Work with Kubernetes objects: You'll define Pods, Deployments, and Services to manage application lifecycle.
-Explore services and scaling: We'll expose the application and learn how to scale it up and down.
-Understand logs and monitoring: You'll access application logs and utilize basic monitoring tools.
+- Deploy a simple web application: We'll deploy a basic HTTP server to visualize cluster functionality.
+- Work with Kubernetes objects: You'll define Pods, Deployments, and Services to manage application lifecycle.
+- Explore services and scaling: We'll expose the application and learn how to scale it up and down.
+- Understand logs and monitoring: You'll access application logs and utilize basic monitoring tools.
