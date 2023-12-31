@@ -3,12 +3,12 @@ Hands on labs to guide you through the fundamental concepts of Kubernetes. We'll
 
 ## Before we begin
 
-Ensure you have basic familiarity with containers and Docker.
-Choose a platform to run your Kubernetes cluster. Options include:
-Docker Desktop (Windows and Mac)
-Minikube (local single-node cluster)
-Katacoda (interactive cloud environments)
-Free cloud platforms with Kubernetes offerings (AWS EKS, GCP Kubernetes Engine, Azure AKS)
+- Ensure you have basic familiarity with containers and Docker.
+- Choose a platform to run your Kubernetes cluster. Options include:
+  - Docker Desktop (Linux, Windows and Mac)
+  - Minikube (local single-node cluster)
+  - Katacoda (interactive cloud environments)
+  - Free cloud platforms with Kubernetes offerings (AWS EKS, GCP Kubernetes Engine, Azure AKS)
 
 ## Project Goals:
 
