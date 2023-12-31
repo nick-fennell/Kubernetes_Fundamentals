@@ -5,7 +5,7 @@
 - Verify cluster access: Once setup, test access to your cluster using kubectl get nodes.
 
 
-## steps to set up a Kubernetes cluster using Docker Desktop:
+## Steps to set up a Kubernetes cluster using Docker Desktop:
 
 1. Installation and Requirements:
 
